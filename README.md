@@ -105,3 +105,9 @@ mvn clean test
   accepts anyway.
 - An implicit wait of 10 seconds is used throughout to absorb page-load and
   ad-related delays on the live site.
+
+## Demo Videos
+
+The following Google Drive folder contains demonstration videos of the Automation Selenium Cucumber TestNG project.
+
+[Watch the Demo Videos](https://drive.google.com/drive/folders/1pgTH-3x2_LP5AVl687GRBFUVJy0LW--a?usp=sharing)
